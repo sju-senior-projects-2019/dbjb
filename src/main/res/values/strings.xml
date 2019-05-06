@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mylocation</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="time"><u>Time</u></string>
+    <string name="distance"><u>Distance</u></string>
+    <string name="pace"><u>Pace</u></string>
+    <string name="avg_pace"><u>Avg Pace</u></string>
+    <string name="title_activity_maps_search">Map</string>
+</resources>
